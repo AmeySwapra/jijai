@@ -17,7 +17,7 @@ import {
     FaWhatsapp,
   } from "react-icons/fa";
   import logo from "../assets/JIJAI LOGO_page-0001.png";
-  import bgFooter from "../assets/Footer.jpg";
+  import bgFooter from "../assets/foot.jpg";
   
   const Footer = () => {
     return (
